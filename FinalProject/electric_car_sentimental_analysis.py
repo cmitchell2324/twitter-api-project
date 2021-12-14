@@ -54,6 +54,6 @@ def getSentiment(score):
     return 'Positive'
 
 # Create a column to store the sentiment of the text
-stock_df['Sentiment'] = stock_df['Polarity'].apply(getSentiment)
-elon_df['Sentiment'] = elon_df['Polarity'].apply(getSentiment)
-cars_df['Sentiment'] = cars_df['Polarity'].apply(getSentiment)
+tesla_stock_df['Sentiment'] = tesla_stock_df['Polarity'].apply(getSentiment)
+bmw_stock_df['Sentiment'] = bmw_stock_df['Polarity'].apply(getSentiment)
+volkswagen_stock_df['Sentiment'] = volkswagen_stock_df['Polarity'].apply(getSentiment)

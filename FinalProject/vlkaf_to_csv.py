@@ -6,8 +6,8 @@ import pandas as pd
 
 # Variables to be used in the search for tweets.
 num_tweets = 89     # How many tweets to retrieve.
-search_term = 'bmwyy -filter:retweets'      # Seach query. Disregards retweets.
-file_name = 'bmwyy_tweets.csv'    # Name of the csv file the dataframe of tweets will be written to.
+search_term = 'vlkaf -filter:retweets'      # Seach query. Disregards retweets.
+file_name = 'vlkaf_tweets.csv'    # Name of the csv file the dataframe of tweets will be written to.
 
 
 # Create authentication object
@@ -29,5 +29,5 @@ df = pd.DataFrame(all_tweets, columns=['Tweets'])
 pd.read_csv(file_name).append(df).drop_duplicates().to_csv(file_name,index=False)
 
 df2 = pd.read_csv(file_name)
-print('BMWYY stock df shape:')
+print('VLKAF stock df shape:')
 print(df2.shape)    # This shows how many tweets are in the dataframe after the append.
