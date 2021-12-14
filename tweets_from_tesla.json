@@ -1,0 +1,5565 @@
+[
+ {
+  "created_at": "Tue Dec 07 00:03:45 +0000 2021",
+  "id": 1468008290240143366,
+  "id_str": "1468008290240143366",
+  "text": "Tesla stability control systems measure your steering &amp; pedal inputs against each wheel\u2019s available grip, adjusting\u2026 https://t.co/E7RzOUPfgl",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/E7RzOUPfgl",
+     "expanded_url": "https://twitter.com/i/web/status/1468008290240143366",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1467583806072893446,
+  "quoted_status_id_str": "1467583806072893446",
+  "quoted_status": {
+   "created_at": "Sun Dec 05 19:57:00 +0000 2021",
+   "id": 1467583806072893446,
+   "id_str": "1467583806072893446",
+   "text": "Today was my first experience with a @Tesla in winter conditions. At one point, I found myself on a very steep down\u2026 https://t.co/BnOz1TNCsA",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "Tesla",
+      "name": "Tesla",
+      "id": 13298072,
+      "id_str": "13298072",
+      "indices": [
+       37,
+       43
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/BnOz1TNCsA",
+      "expanded_url": "https://twitter.com/i/web/status/1467583806072893446",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 392207823,
+    "id_str": "392207823",
+    "name": "Tom Klun",
+    "screen_name": "TKlun1",
+    "location": "",
+    "description": "US healthcare optimist, outdoor enthusiast, and sports fan living in Minnesota",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 297,
+    "listed_count": 2,
+    "created_at": "Sun Oct 16 18:04:25 +0000 2011",
+    "favourites_count": 1127,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 129,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/835700038965706752/WxPHTL0G_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/835700038965706752/WxPHTL0G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/392207823/1639107621",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 111,
+   "favorite_count": 1555,
+   "favorited": false,
+   "retweeted": false,
+   "lang": "en"
+  },
+  "retweet_count": 636,
+  "favorite_count": 7124,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 06 10:40:31 +0000 2021",
+  "id": 1467806150771056641,
+  "id_str": "1467806150771056641",
+  "text": "RT @elonmusk: As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people\u2019s lives in\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Dec 06 05:42:48 +0000 2021",
+   "id": 1467731226609999872,
+   "id_str": "1467731226609999872",
+   "text": "As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people\u2019s\u2026 https://t.co/gDRYcSAAuk",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/gDRYcSAAuk",
+      "expanded_url": "https://twitter.com/i/web/status/1467731226609999872",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 44196397,
+    "id_str": "44196397",
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 66309191,
+    "friends_count": 107,
+    "listed_count": 82642,
+    "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+    "favourites_count": 11304,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16336,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 10406,
+   "favorite_count": 107122,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 10406,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 03 11:41:52 +0000 2021",
+  "id": 1466734428089106432,
+  "id_str": "1466734428089106432",
+  "text": "In Camp Mode, your Tesla will maintain airflow, temperature, interior lighting, as well as play music &amp; power devic\u2026 https://t.co/HOZ8YeBMU6",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/HOZ8YeBMU6",
+     "expanded_url": "https://twitter.com/i/web/status/1466734428089106432",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1466469809923764235,
+  "quoted_status_id_str": "1466469809923764235",
+  "quoted_status": {
+   "created_at": "Thu Dec 02 18:10:23 +0000 2021",
+   "id": 1466469809923764235,
+   "id_str": "1466469809923764235",
+   "text": "I slept in the car next to a glacier in #norway. Camp Mode came in clutch \ud83d\ude4c\ud83c\udffd @elonmusk @Tesla https://t.co/abwVwRcTl7",
+   "truncated": false,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "norway",
+      "indices": [
+       40,
+       47
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "elonmusk",
+      "name": "Elon Musk",
+      "id": 44196397,
+      "id_str": "44196397",
+      "indices": [
+       77,
+       86
+      ]
+     },
+     {
+      "screen_name": "Tesla",
+      "name": "Tesla",
+      "id": 13298072,
+      "id_str": "13298072",
+      "indices": [
+       87,
+       93
+      ]
+     }
+    ],
+    "urls": [],
+    "media": [
+     {
+      "id": 1466469384868794374,
+      "id_str": "1466469384868794374",
+      "indices": [
+       94,
+       117
+      ],
+      "media_url": "http://pbs.twimg.com/media/FFnyIscXEAY-w46.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FFnyIscXEAY-w46.jpg",
+      "url": "https://t.co/abwVwRcTl7",
+      "display_url": "pic.twitter.com/abwVwRcTl7",
+      "expanded_url": "https://twitter.com/MinimalDuck/status/1466469809923764235/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 544,
+        "h": 680,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 960,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1638,
+        "h": 2048,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1466469384868794374,
+      "id_str": "1466469384868794374",
+      "indices": [
+       94,
+       117
+      ],
+      "media_url": "http://pbs.twimg.com/media/FFnyIscXEAY-w46.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FFnyIscXEAY-w46.jpg",
+      "url": "https://t.co/abwVwRcTl7",
+      "display_url": "pic.twitter.com/abwVwRcTl7",
+      "expanded_url": "https://twitter.com/MinimalDuck/status/1466469809923764235/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 544,
+        "h": 680,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 960,
+        "h": 1200,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1638,
+        "h": 2048,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 740946180,
+    "id_str": "740946180",
+    "name": "Arash Malek \ud83e\udd86",
+    "screen_name": "MinimalDuck",
+    "location": "Berkeley, CA",
+    "description": "Founder of @ScentWedge Dogfather, giver of high fives, #dronelife Cinematographer for @teslarati https://t.co/Ny8h24gQPo",
+    "url": "https://t.co/akEsPS3Hrk",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/akEsPS3Hrk",
+        "expanded_url": "http://www.scentwedge.com",
+        "display_url": "scentwedge.com",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": [
+       {
+        "url": "https://t.co/Ny8h24gQPo",
+        "expanded_url": "https://www.instagram.com/minimal_duck/",
+        "display_url": "instagram.com/minimal_duck/",
+        "indices": [
+         97,
+         120
+        ]
+       }
+      ]
+     }
+    },
+    "protected": false,
+    "followers_count": 4216,
+    "friends_count": 1996,
+    "listed_count": 50,
+    "created_at": "Mon Aug 06 16:22:49 +0000 2012",
+    "favourites_count": 18100,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3224,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1280507670081011713/4Gz_-CL6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280507670081011713/4Gz_-CL6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/740946180/1550340904",
+    "profile_link_color": "575757",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 172,
+   "favorite_count": 3301,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 744,
+  "favorite_count": 10311,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 02 14:37:21 +0000 2021",
+  "id": 1466416200750088195,
+  "id_str": "1466416200750088195",
+  "text": "https://t.co/XQvbytjrJ2",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/XQvbytjrJ2",
+     "expanded_url": "https://shop.tesla.com/product/cyberquad-for-kids",
+     "display_url": "shop.tesla.com/product/cyberq\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1466416107233894408,
+  "in_reply_to_status_id_str": "1466416107233894408",
+  "in_reply_to_user_id": 13298072,
+  "in_reply_to_user_id_str": "13298072",
+  "in_reply_to_screen_name": "Tesla",
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 560,
+  "favorite_count": 6905,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+ },
+ {
+  "created_at": "Thu Dec 02 14:36:59 +0000 2021",
+  "id": 1466416107233894408,
+  "id_str": "1466416107233894408",
+  "text": "Cyberquad for Kids \ud83d\ude0e https://t.co/V9o355OArP",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/V9o355OArP",
+     "expanded_url": "https://twitter.com/woodhaus2/status/1466273823011917825",
+     "display_url": "twitter.com/woodhaus2/stat\u2026",
+     "indices": [
+      21,
+      44
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1466273823011917825,
+  "quoted_status_id_str": "1466273823011917825",
+  "quoted_status": {
+   "created_at": "Thu Dec 02 05:11:36 +0000 2021",
+   "id": 1466273823011917825,
+   "id_str": "1466273823011917825",
+   "text": "Out riding with the kids on the Cyberquads! So much fun for kids and adults! @tesla https://t.co/gq23GWsiDk",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "Tesla",
+      "name": "Tesla",
+      "id": 13298072,
+      "id_str": "13298072",
+      "indices": [
+       77,
+       83
+      ]
+     }
+    ],
+    "urls": [],
+    "media": [
+     {
+      "id": 1466273064425963526,
+      "id_str": "1466273064425963526",
+      "indices": [
+       84,
+       107
+      ],
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466273064425963526/pu/img/Fc-Z3MBq2EI0NNPY.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466273064425963526/pu/img/Fc-Z3MBq2EI0NNPY.jpg",
+      "url": "https://t.co/gq23GWsiDk",
+      "display_url": "pic.twitter.com/gq23GWsiDk",
+      "expanded_url": "https://twitter.com/woodhaus2/status/1466273823011917825/video/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 425,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 750,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1920,
+        "h": 1200,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1466273064425963526,
+      "id_str": "1466273064425963526",
+      "indices": [
+       84,
+       107
+      ],
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466273064425963526/pu/img/Fc-Z3MBq2EI0NNPY.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466273064425963526/pu/img/Fc-Z3MBq2EI0NNPY.jpg",
+      "url": "https://t.co/gq23GWsiDk",
+      "display_url": "pic.twitter.com/gq23GWsiDk",
+      "expanded_url": "https://twitter.com/woodhaus2/status/1466273823011917825/video/1",
+      "type": "video",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 425,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 750,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1920,
+        "h": 1200,
+        "resize": "fit"
+       }
+      },
+      "video_info": {
+       "aspect_ratio": [
+        8,
+        5
+       ],
+       "duration_millis": 44127,
+       "variants": [
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1466273064425963526/pu/vid/1152x720/UAOHi2AnDnu_SL8g.mp4?tag=12"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1466273064425963526/pu/vid/432x270/bwb0js0aPyxEe6f9.mp4?tag=12"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/ext_tw_video/1466273064425963526/pu/pl/Vj4NkKuT56Ne_i8V.m3u8?tag=12&container=fmp4"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1466273064425963526/pu/vid/576x360/qnLZEFQOIBCjVRfB.mp4?tag=12"
+        }
+       ]
+      },
+      "additional_media_info": {
+       "monetizable": false
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 55769345,
+    "id_str": "55769345",
+    "name": "Franz von Holzhausen",
+    "screen_name": "woodhaus2",
+    "location": "",
+    "description": "Chief Designer @Tesla",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 62438,
+    "friends_count": 22,
+    "listed_count": 353,
+    "created_at": "Sat Jul 11 05:44:59 +0000 2009",
+    "favourites_count": 30,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 51,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/938856614567624704/BR1_Brla_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/938856614567624704/BR1_Brla_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/55769345/1512675370",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1223,
+   "favorite_count": 11200,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 1208,
+  "favorite_count": 12940,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Dec 01 20:47:13 +0000 2021",
+  "id": 1466146891859730436,
+  "id_str": "1466146891859730436",
+  "text": "RT @TeslaSolar: New Solar Roof tiles can deliver a 22% increase in power, resulting in more energy offset https://t.co/pxxPPgeB8s",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaSolar",
+     "name": "Tesla Solar",
+     "id": 1405917556318392324,
+     "id_str": "1405917556318392324",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1466113185576980486,
+     "id_str": "1466113185576980486",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+     "url": "https://t.co/pxxPPgeB8s",
+     "display_url": "pic.twitter.com/pxxPPgeB8s",
+     "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1152,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1466113400191086600,
+     "source_status_id_str": "1466113400191086600",
+     "source_user_id": 1405917556318392324,
+     "source_user_id_str": "1405917556318392324"
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1466113185576980486,
+     "id_str": "1466113185576980486",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+     "url": "https://t.co/pxxPPgeB8s",
+     "display_url": "pic.twitter.com/pxxPPgeB8s",
+     "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1152,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1466113400191086600,
+     "source_status_id_str": "1466113400191086600",
+     "source_user_id": 1405917556318392324,
+     "source_user_id_str": "1405917556318392324"
+    },
+    {
+     "id": 1466113248197951490,
+     "id_str": "1466113248197951490",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FFiuOz9VQAI026N.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FFiuOz9VQAI026N.jpg",
+     "url": "https://t.co/pxxPPgeB8s",
+     "display_url": "pic.twitter.com/pxxPPgeB8s",
+     "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1152,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1466113400191086600,
+     "source_status_id_str": "1466113400191086600",
+     "source_user_id": 1405917556318392324,
+     "source_user_id_str": "1405917556318392324"
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Dec 01 18:34:08 +0000 2021",
+   "id": 1466113400191086600,
+   "id_str": "1466113400191086600",
+   "text": "New Solar Roof tiles can deliver a 22% increase in power, resulting in more energy offset https://t.co/pxxPPgeB8s",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+     {
+      "id": 1466113185576980486,
+      "id_str": "1466113185576980486",
+      "indices": [
+       90,
+       113
+      ],
+      "media_url": "http://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+      "url": "https://t.co/pxxPPgeB8s",
+      "display_url": "pic.twitter.com/pxxPPgeB8s",
+      "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 2048,
+        "h": 1152,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1466113185576980486,
+      "id_str": "1466113185576980486",
+      "indices": [
+       90,
+       113
+      ],
+      "media_url": "http://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FFiuLKrVEAYTADi.jpg",
+      "url": "https://t.co/pxxPPgeB8s",
+      "display_url": "pic.twitter.com/pxxPPgeB8s",
+      "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 2048,
+        "h": 1152,
+        "resize": "fit"
+       }
+      }
+     },
+     {
+      "id": 1466113248197951490,
+      "id_str": "1466113248197951490",
+      "indices": [
+       90,
+       113
+      ],
+      "media_url": "http://pbs.twimg.com/media/FFiuOz9VQAI026N.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FFiuOz9VQAI026N.jpg",
+      "url": "https://t.co/pxxPPgeB8s",
+      "display_url": "pic.twitter.com/pxxPPgeB8s",
+      "expanded_url": "https://twitter.com/TeslaSolar/status/1466113400191086600/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 2048,
+        "h": 1152,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1405917556318392324,
+    "id_str": "1405917556318392324",
+    "name": "Tesla Solar",
+    "screen_name": "TeslaSolar",
+    "location": "",
+    "description": "Produce & store your own energy with Solar Roof, Solar Panels & Powerwall",
+    "url": "https://t.co/ZKvldAN2oz",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/ZKvldAN2oz",
+        "expanded_url": "https://www.tesla.com/solarroof",
+        "display_url": "tesla.com/solarroof",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 26386,
+    "friends_count": 38,
+    "listed_count": 75,
+    "created_at": "Fri Jun 18 15:57:33 +0000 2021",
+    "favourites_count": 21,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 23,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1448119048320032773/5ND1AMxW_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448119048320032773/5ND1AMxW_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1405917556318392324/1634094975",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 4082,
+   "favorite_count": 41460,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4082,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Dec 01 00:30:15 +0000 2021",
+  "id": 1465840632275034120,
+  "id_str": "1465840632275034120",
+  "text": "RT @elonmusk: Blow the whistle on Tesla!\nhttps://t.co/c86hLA0iQK",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/c86hLA0iQK",
+     "expanded_url": "https://shop.tesla.com/product/cyberwhistle?sku=1715672-00-A",
+     "display_url": "shop.tesla.com/product/cyberw\u2026",
+     "indices": [
+      41,
+      64
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Dec 01 00:23:05 +0000 2021",
+   "id": 1465838829370228737,
+   "id_str": "1465838829370228737",
+   "text": "Blow the whistle on Tesla!\nhttps://t.co/c86hLA0iQK",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/c86hLA0iQK",
+      "expanded_url": "https://shop.tesla.com/product/cyberwhistle?sku=1715672-00-A",
+      "display_url": "shop.tesla.com/product/cyberw\u2026",
+      "indices": [
+       27,
+       50
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 44196397,
+    "id_str": "44196397",
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 66309191,
+    "friends_count": 107,
+    "listed_count": 82642,
+    "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+    "favourites_count": 11304,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16336,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 6689,
+   "favorite_count": 99689,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 6689,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Nov 17 20:04:32 +0000 2021",
+  "id": 1461062720753700864,
+  "id_str": "1461062720753700864",
+  "text": "RT @TeslaSolar: 250k Powerwall installs globally \u2600\ufe0f\ud83d\udd0b\u26a1\ufe0f",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaSolar",
+     "name": "Tesla Solar",
+     "id": 1405917556318392324,
+     "id_str": "1405917556318392324",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Nov 17 19:11:00 +0000 2021",
+   "id": 1461049247537717256,
+   "id_str": "1461049247537717256",
+   "text": "250k Powerwall installs globally \u2600\ufe0f\ud83d\udd0b\u26a1\ufe0f https://t.co/bFIF4419hR",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/bFIF4419hR",
+      "expanded_url": "https://twitter.com/blocktweetchain/status/1456335324636925952",
+      "display_url": "twitter.com/blocktweetchai\u2026",
+      "indices": [
+       39,
+       62
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1405917556318392324,
+    "id_str": "1405917556318392324",
+    "name": "Tesla Solar",
+    "screen_name": "TeslaSolar",
+    "location": "",
+    "description": "Produce & store your own energy with Solar Roof, Solar Panels & Powerwall",
+    "url": "https://t.co/ZKvldAN2oz",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/ZKvldAN2oz",
+        "expanded_url": "https://www.tesla.com/solarroof",
+        "display_url": "tesla.com/solarroof",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 26386,
+    "friends_count": 38,
+    "listed_count": 75,
+    "created_at": "Fri Jun 18 15:57:33 +0000 2021",
+    "favourites_count": 21,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 23,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1448119048320032773/5ND1AMxW_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448119048320032773/5ND1AMxW_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1405917556318392324/1634094975",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": true,
+   "quoted_status_id": 1456335324636925952,
+   "quoted_status_id_str": "1456335324636925952",
+   "quoted_status": {
+    "created_at": "Thu Nov 04 18:59:33 +0000 2021",
+    "id": 1456335324636925952,
+    "id_str": "1456335324636925952",
+    "text": "I want to thank the team @Tesla Rob, Bria, &amp; Dylan for installing my solar/power wall+.  You have a great team\u2026 https://t.co/3Jtj2O1T0t",
+    "truncated": true,
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "user_mentions": [
+      {
+       "screen_name": "Tesla",
+       "name": "Tesla",
+       "id": 13298072,
+       "id_str": "13298072",
+       "indices": [
+        25,
+        31
+       ]
+      }
+     ],
+     "urls": [
+      {
+       "url": "https://t.co/3Jtj2O1T0t",
+       "expanded_url": "https://twitter.com/i/web/status/1456335324636925952",
+       "display_url": "twitter.com/i/web/status/1\u2026",
+       "indices": [
+        116,
+        139
+       ]
+      }
+     ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 1433980524293464067,
+     "id_str": "1433980524293464067",
+     "name": "Henry",
+     "screen_name": "blocktweetchain",
+     "location": "",
+     "description": "",
+     "url": null,
+     "entities": {
+      "description": {
+       "urls": []
+      }
+     },
+     "protected": false,
+     "followers_count": 54,
+     "friends_count": 67,
+     "listed_count": 0,
+     "created_at": "Sat Sep 04 02:31:30 +0000 2021",
+     "favourites_count": 769,
+     "utc_offset": null,
+     "time_zone": null,
+     "geo_enabled": false,
+     "verified": false,
+     "statuses_count": 81,
+     "lang": null,
+     "contributors_enabled": false,
+     "is_translator": false,
+     "is_translation_enabled": false,
+     "profile_background_color": "F5F8FA",
+     "profile_background_image_url": null,
+     "profile_background_image_url_https": null,
+     "profile_background_tile": false,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/1433981385639960585/GspqOZs3_normal.jpg",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1433981385639960585/GspqOZs3_normal.jpg",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433980524293464067/1631664373",
+     "profile_link_color": "1DA1F2",
+     "profile_sidebar_border_color": "C0DEED",
+     "profile_sidebar_fill_color": "DDEEF6",
+     "profile_text_color": "333333",
+     "profile_use_background_image": true,
+     "has_extended_profile": true,
+     "default_profile": true,
+     "default_profile_image": false,
+     "following": false,
+     "follow_request_sent": false,
+     "notifications": false,
+     "translator_type": "none",
+     "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 139,
+    "favorite_count": 1797,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+   },
+   "retweet_count": 1240,
+   "favorite_count": 15324,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1456335324636925952,
+  "quoted_status_id_str": "1456335324636925952",
+  "retweet_count": 1240,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Nov 11 16:21:16 +0000 2021",
+  "id": 1458832207737409540,
+  "id_str": "1458832207737409540",
+  "text": "RT @TeslaCharging: 30k Superchargers around the world \u2014 and counting https://t.co/Yw7m3cJ6HA",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1458587590815215622,
+     "id_str": "1458587590815215622",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+     "url": "https://t.co/Yw7m3cJ6HA",
+     "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 731,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 414,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 731,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1458587778157928449,
+     "source_status_id_str": "1458587778157928449",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1458587590815215622,
+     "id_str": "1458587590815215622",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+     "url": "https://t.co/Yw7m3cJ6HA",
+     "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 731,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 414,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 731,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1458587778157928449,
+     "source_status_id_str": "1458587778157928449",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    },
+    {
+     "id": 1458587590831923200,
+     "id_str": "1458587590831923200",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FD3xr5lUYAAPK1C.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FD3xr5lUYAAPK1C.jpg",
+     "url": "https://t.co/Yw7m3cJ6HA",
+     "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 746,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 746,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 423,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1458587778157928449,
+     "source_status_id_str": "1458587778157928449",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    },
+    {
+     "id": 1458587590852956160,
+     "id_str": "1458587590852956160",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FD3xr5qVUAAshw_.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FD3xr5qVUAAshw_.jpg",
+     "url": "https://t.co/Yw7m3cJ6HA",
+     "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1458587778157928449,
+     "source_status_id_str": "1458587778157928449",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    },
+    {
+     "id": 1458587590840360969,
+     "id_str": "1458587590840360969",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FD3xr5nVIAk-8qD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FD3xr5nVIAk-8qD.jpg",
+     "url": "https://t.co/Yw7m3cJ6HA",
+     "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1200,
+       "h": 821,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 465,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 821,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1458587778157928449,
+     "source_status_id_str": "1458587778157928449",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Thu Nov 11 00:10:00 +0000 2021",
+   "id": 1458587778157928449,
+   "id_str": "1458587778157928449",
+   "text": "30k Superchargers around the world \u2014 and counting https://t.co/Yw7m3cJ6HA",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+     {
+      "id": 1458587590815215622,
+      "id_str": "1458587590815215622",
+      "indices": [
+       50,
+       73
+      ],
+      "media_url": "http://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+      "url": "https://t.co/Yw7m3cJ6HA",
+      "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 731,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 414,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 731,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1458587590815215622,
+      "id_str": "1458587590815215622",
+      "indices": [
+       50,
+       73
+      ],
+      "media_url": "http://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FD3xr5hVcAYPqRE.jpg",
+      "url": "https://t.co/Yw7m3cJ6HA",
+      "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 731,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 414,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 731,
+        "resize": "fit"
+       }
+      }
+     },
+     {
+      "id": 1458587590831923200,
+      "id_str": "1458587590831923200",
+      "indices": [
+       50,
+       73
+      ],
+      "media_url": "http://pbs.twimg.com/media/FD3xr5lUYAAPK1C.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FD3xr5lUYAAPK1C.jpg",
+      "url": "https://t.co/Yw7m3cJ6HA",
+      "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "large": {
+        "w": 1200,
+        "h": 746,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 746,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 423,
+        "resize": "fit"
+       }
+      }
+     },
+     {
+      "id": 1458587590852956160,
+      "id_str": "1458587590852956160",
+      "indices": [
+       50,
+       73
+      ],
+      "media_url": "http://pbs.twimg.com/media/FD3xr5qVUAAshw_.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FD3xr5qVUAAshw_.jpg",
+      "url": "https://t.co/Yw7m3cJ6HA",
+      "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+      "type": "photo",
+      "sizes": {
+       "medium": {
+        "w": 1200,
+        "h": 800,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 453,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "large": {
+        "w": 1200,
+        "h": 800,
+        "resize": "fit"
+       }
+      }
+     },
+     {
+      "id": 1458587590840360969,
+      "id_str": "1458587590840360969",
+      "indices": [
+       50,
+       73
+      ],
+      "media_url": "http://pbs.twimg.com/media/FD3xr5nVIAk-8qD.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FD3xr5nVIAk-8qD.jpg",
+      "url": "https://t.co/Yw7m3cJ6HA",
+      "display_url": "pic.twitter.com/Yw7m3cJ6HA",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1458587778157928449/photo/1",
+      "type": "photo",
+      "sizes": {
+       "large": {
+        "w": 1200,
+        "h": 821,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "small": {
+        "w": 680,
+        "h": 465,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 821,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1346535293449428992,
+    "id_str": "1346535293449428992",
+    "name": "Tesla Charging",
+    "screen_name": "TeslaCharging",
+    "location": "",
+    "description": "New Supercharger sites, announcements and all things charging.",
+    "url": "https://t.co/ltiD47qSRh",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/ltiD47qSRh",
+        "expanded_url": "https://www.tesla.com/supercharger",
+        "display_url": "tesla.com/supercharger",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 39348,
+    "friends_count": 90,
+    "listed_count": 207,
+    "created_at": "Tue Jan 05 19:13:55 +0000 2021",
+    "favourites_count": 133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 664,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1362134815844294661/vKTmG2CO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362134815844294661/vKTmG2CO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346535293449428992/1611973645",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 4244,
+   "favorite_count": 49035,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 4244,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Nov 01 16:35:49 +0000 2021",
+  "id": 1455211990532689922,
+  "id_str": "1455211990532689922",
+  "text": "Talk through your Tesla using the Tesla app https://t.co/aYk8t9J4Hl",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/aYk8t9J4Hl",
+     "expanded_url": "https://twitter.com/silverph/status/1455036814180421633",
+     "display_url": "twitter.com/silverph/statu\u2026",
+     "indices": [
+      44,
+      67
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1455036814180421633,
+  "quoted_status_id_str": "1455036814180421633",
+  "quoted_status": {
+   "created_at": "Mon Nov 01 04:59:44 +0000 2021",
+   "id": 1455036814180421633,
+   "id_str": "1455036814180421633",
+   "text": "@elonmusk \u201cDad, the Tesla\u2019s talking!\u201d \ud83d\ude02 Tobie is in the spotlight! I wish I can open and close the frunk automatica\u2026 https://t.co/LoZXfxt4g3",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "elonmusk",
+      "name": "Elon Musk",
+      "id": 44196397,
+      "id_str": "44196397",
+      "indices": [
+       0,
+       9
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/LoZXfxt4g3",
+      "expanded_url": "https://twitter.com/i/web/status/1455036814180421633",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": 44196397,
+   "in_reply_to_user_id_str": "44196397",
+   "in_reply_to_screen_name": "elonmusk",
+   "user": {
+    "id": 776044,
+    "id_str": "776044",
+    "name": "Silverph_NY_Tesla",
+    "screen_name": "silverph",
+    "location": "Long Island, NY",
+    "description": "Woodworker, mountain bikes, film photography, ukulele. Proud Tesla Model 3 & Model Y  owners! SpaceX fan. TOCNYS member 54914327",
+    "url": "https://t.co/fN0VAbx30s",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/fN0VAbx30s",
+        "expanded_url": "https://youtu.be/EZ3cwuDlj_s",
+        "display_url": "youtu.be/EZ3cwuDlj_s",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 804,
+    "friends_count": 1295,
+    "listed_count": 75,
+    "created_at": "Fri Feb 16 18:38:47 +0000 2007",
+    "favourites_count": 4993,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16237,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1330286800431181826/nwUlfoUg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330286800431181826/nwUlfoUg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/776044/1625068692",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1146,
+   "favorite_count": 9882,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 1200,
+  "favorite_count": 11184,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Nov 01 13:42:43 +0000 2021",
+  "id": 1455168429112139781,
+  "id_str": "1455168429112139781",
+  "text": "RT @TeslaCharging: Select Superchargers in the Netherlands are now open to all electric cars. https://t.co/DwPxc1vcF4 https://t.co/BveSRZUs\u2026",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/DwPxc1vcF4",
+     "expanded_url": "http://tesla.com/non-tesla-supercharging",
+     "display_url": "tesla.com/non-tesla-supe\u2026",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Mon Nov 01 13:27:00 +0000 2021",
+   "id": 1455164471148613634,
+   "id_str": "1455164471148613634",
+   "text": "Select Superchargers in the Netherlands are now open to all electric cars. https://t.co/DwPxc1vcF4 https://t.co/BveSRZUsC3",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/DwPxc1vcF4",
+      "expanded_url": "http://tesla.com/non-tesla-supercharging",
+      "display_url": "tesla.com/non-tesla-supe\u2026",
+      "indices": [
+       75,
+       98
+      ]
+     }
+    ],
+    "media": [
+     {
+      "id": 1455164342333173762,
+      "id_str": "1455164342333173762",
+      "indices": [
+       99,
+       122
+      ],
+      "media_url": "http://pbs.twimg.com/media/FDHIQnKVcAIwjB8.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FDHIQnKVcAIwjB8.jpg",
+      "url": "https://t.co/BveSRZUsC3",
+      "display_url": "pic.twitter.com/BveSRZUsC3",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1455164471148613634/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1455164342333173762,
+      "id_str": "1455164342333173762",
+      "indices": [
+       99,
+       122
+      ],
+      "media_url": "http://pbs.twimg.com/media/FDHIQnKVcAIwjB8.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FDHIQnKVcAIwjB8.jpg",
+      "url": "https://t.co/BveSRZUsC3",
+      "display_url": "pic.twitter.com/BveSRZUsC3",
+      "expanded_url": "https://twitter.com/TeslaCharging/status/1455164471148613634/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1346535293449428992,
+    "id_str": "1346535293449428992",
+    "name": "Tesla Charging",
+    "screen_name": "TeslaCharging",
+    "location": "",
+    "description": "New Supercharger sites, announcements and all things charging.",
+    "url": "https://t.co/ltiD47qSRh",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "url": "https://t.co/ltiD47qSRh",
+        "expanded_url": "https://www.tesla.com/supercharger",
+        "display_url": "tesla.com/supercharger",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 39348,
+    "friends_count": 90,
+    "listed_count": 207,
+    "created_at": "Tue Jan 05 19:13:55 +0000 2021",
+    "favourites_count": 133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 664,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1362134815844294661/vKTmG2CO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362134815844294661/vKTmG2CO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346535293449428992/1611973645",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1330,
+   "favorite_count": 9522,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1330,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Oct 31 15:03:08 +0000 2021",
+  "id": 1454826275294621697,
+  "id_str": "1454826275294621697",
+  "text": "Happy Halloween \ud83c\udf83 https://t.co/d5ijx1PDjW",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1454826247385751556,
+     "id_str": "1454826247385751556",
+     "indices": [
+      18,
+      41
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454826247385751556/pu/img/tRZ97-1XyAoWm3Wi.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454826247385751556/pu/img/tRZ97-1XyAoWm3Wi.jpg",
+     "url": "https://t.co/d5ijx1PDjW",
+     "display_url": "pic.twitter.com/d5ijx1PDjW",
+     "expanded_url": "https://twitter.com/Tesla/status/1454826275294621697/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1454826247385751556,
+     "id_str": "1454826247385751556",
+     "indices": [
+      18,
+      41
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454826247385751556/pu/img/tRZ97-1XyAoWm3Wi.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454826247385751556/pu/img/tRZ97-1XyAoWm3Wi.jpg",
+     "url": "https://t.co/d5ijx1PDjW",
+     "display_url": "pic.twitter.com/d5ijx1PDjW",
+     "expanded_url": "https://twitter.com/Tesla/status/1454826275294621697/video/1",
+     "type": "video",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 9941,
+      "variants": [
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1454826247385751556/pu/vid/640x360/xr5SdJMBvlSKR2fv.mp4?tag=12"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1454826247385751556/pu/vid/1280x720/bqvVxMN0JdwOEadg.mp4?tag=12"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1454826247385751556/pu/pl/kSyPClOgn3m-xccF.m3u8?tag=12&container=fmp4"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1454826247385751556/pu/vid/480x270/LQbwMaCaWmnOiMEk.mp4?tag=12"
+       }
+      ]
+     },
+     "additional_media_info": {
+      "monetizable": false
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5805,
+  "favorite_count": 78772,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Oct 26 11:32:25 +0000 2021",
+  "id": 1452961309734096900,
+  "id_str": "1452961309734096900",
+  "text": "Dojo whitepaper https://t.co/4PgUGuXE0a",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/4PgUGuXE0a",
+     "expanded_url": "https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22",
+     "display_url": "tesla-cdn.thron.com/static/SBY4B9_\u2026",
+     "indices": [
+      16,
+      39
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1499,
+  "favorite_count": 16083,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Oct 17 13:37:44 +0000 2021",
+  "id": 1449731354103529476,
+  "id_str": "1449731354103529476",
+  "text": "First deliveries of new Model X https://t.co/WfccyUXcFD",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1449731349317890055,
+     "id_str": "1449731349317890055",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FB56-y_XMAc66di.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FB56-y_XMAc66di.jpg",
+     "url": "https://t.co/WfccyUXcFD",
+     "display_url": "pic.twitter.com/WfccyUXcFD",
+     "expanded_url": "https://twitter.com/Tesla/status/1449731354103529476/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1449731349317890055,
+     "id_str": "1449731349317890055",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FB56-y_XMAc66di.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FB56-y_XMAc66di.jpg",
+     "url": "https://t.co/WfccyUXcFD",
+     "display_url": "pic.twitter.com/WfccyUXcFD",
+     "expanded_url": "https://twitter.com/Tesla/status/1449731354103529476/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     }
+    },
+    {
+     "id": 1449731348818796548,
+     "id_str": "1449731348818796548",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FB56-xIXoAQfscy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FB56-xIXoAQfscy.jpg",
+     "url": "https://t.co/WfccyUXcFD",
+     "display_url": "pic.twitter.com/WfccyUXcFD",
+     "expanded_url": "https://twitter.com/Tesla/status/1449731354103529476/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     }
+    },
+    {
+     "id": 1449731348814569474,
+     "id_str": "1449731348814569474",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FB56-xHXIAI1mnb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FB56-xHXIAI1mnb.jpg",
+     "url": "https://t.co/WfccyUXcFD",
+     "display_url": "pic.twitter.com/WfccyUXcFD",
+     "expanded_url": "https://twitter.com/Tesla/status/1449731354103529476/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      }
+     }
+    },
+    {
+     "id": 1449731349024317444,
+     "id_str": "1449731349024317444",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FB56-x5XoAQfWwN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FB56-x5XoAQfWwN.jpg",
+     "url": "https://t.co/WfccyUXcFD",
+     "display_url": "pic.twitter.com/WfccyUXcFD",
+     "expanded_url": "https://twitter.com/Tesla/status/1449731354103529476/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2082,
+  "favorite_count": 28623,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Oct 13 19:18:30 +0000 2021",
+  "id": 1448367562690076680,
+  "id_str": "1448367562690076680",
+  "text": "Safety will continue to improve via over-the-air updates\u00a0https://t.co/HvXQEboAUs",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/HvXQEboAUs",
+     "expanded_url": "https://youtu.be/9KR2N_Q8ep8",
+     "display_url": "youtu.be/9KR2N_Q8ep8",
+     "indices": [
+      57,
+      80
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 818,
+  "favorite_count": 7495,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Oct 09 19:39:56 +0000 2021",
+  "id": 1446923404314087427,
+  "id_str": "1446923404314087427",
+  "text": "Giga Berlin-Brandenburg County Fair https://t.co/s25GaYuujl",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1446923307908050949,
+     "id_str": "1446923307908050949",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446923307908050949/pu/img/HZVkqs_8FJsrFuHu.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446923307908050949/pu/img/HZVkqs_8FJsrFuHu.jpg",
+     "url": "https://t.co/s25GaYuujl",
+     "display_url": "pic.twitter.com/s25GaYuujl",
+     "expanded_url": "https://twitter.com/Tesla/status/1446923404314087427/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1446923307908050949,
+     "id_str": "1446923307908050949",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446923307908050949/pu/img/HZVkqs_8FJsrFuHu.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446923307908050949/pu/img/HZVkqs_8FJsrFuHu.jpg",
+     "url": "https://t.co/s25GaYuujl",
+     "display_url": "pic.twitter.com/s25GaYuujl",
+     "expanded_url": "https://twitter.com/Tesla/status/1446923404314087427/video/1",
+     "type": "video",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 55680,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1446923307908050949/pu/pl/SiKsOGSIEDX161i2.m3u8?tag=12&container=fmp4"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1446923307908050949/pu/vid/640x360/tEfLB_uthaA83il3.mp4?tag=12"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1446923307908050949/pu/vid/480x270/aAfC75-kFkUQIo9d.mp4?tag=12"
+       }
+      ]
+     },
+     "additional_media_info": {
+      "monetizable": false
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3315,
+  "favorite_count": 29666,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "de"
+ },
+ {
+  "created_at": "Fri Oct 08 10:34:54 +0000 2021",
+  "id": 1446423854465830918,
+  "id_str": "1446423854465830918",
+  "text": "RT @elonmusk: Please consider joining Tesla AI software or hardware teams! https://t.co/HgigdtenKN",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1446401149989445647,
+     "id_str": "1446401149989445647",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+     "url": "https://t.co/HgigdtenKN",
+     "display_url": "pic.twitter.com/HgigdtenKN",
+     "expanded_url": "https://twitter.com/elonmusk/status/1446401165965529088/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 707,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1720,
+       "h": 1013,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 400,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1446401165965529088,
+     "source_status_id_str": "1446401165965529088",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1446401149989445647,
+     "id_str": "1446401149989445647",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+     "url": "https://t.co/HgigdtenKN",
+     "display_url": "pic.twitter.com/HgigdtenKN",
+     "expanded_url": "https://twitter.com/elonmusk/status/1446401165965529088/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 707,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1720,
+       "h": 1013,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 400,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1446401165965529088,
+     "source_status_id_str": "1446401165965529088",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Fri Oct 08 09:04:45 +0000 2021",
+   "id": 1446401165965529088,
+   "id_str": "1446401165965529088",
+   "text": "Please consider joining Tesla AI software or hardware teams! https://t.co/HgigdtenKN",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+     {
+      "id": 1446401149989445647,
+      "id_str": "1446401149989445647",
+      "indices": [
+       61,
+       84
+      ],
+      "media_url": "http://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+      "url": "https://t.co/HgigdtenKN",
+      "display_url": "pic.twitter.com/HgigdtenKN",
+      "expanded_url": "https://twitter.com/elonmusk/status/1446401165965529088/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 707,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1720,
+        "h": 1013,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 400,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1446401149989445647,
+      "id_str": "1446401149989445647",
+      "indices": [
+       61,
+       84
+      ],
+      "media_url": "http://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/FBKmLrvWYA8q4_J.jpg",
+      "url": "https://t.co/HgigdtenKN",
+      "display_url": "pic.twitter.com/HgigdtenKN",
+      "expanded_url": "https://twitter.com/elonmusk/status/1446401165965529088/photo/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 707,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1720,
+        "h": 1013,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 400,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 44196397,
+    "id_str": "44196397",
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 66309191,
+    "friends_count": 107,
+    "listed_count": 82642,
+    "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+    "favourites_count": 11304,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16336,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 5569,
+   "favorite_count": 76377,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5569,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Oct 07 21:44:55 +0000 2021",
+  "id": 1446230081412677636,
+  "id_str": "1446230081412677636",
+  "text": "Tesla Shareholder Meeting https://t.co/uEv7dE43dC",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/uEv7dE43dC",
+     "expanded_url": "https://www.tesla.com/2021shareholdermeeting",
+     "display_url": "tesla.com/2021shareholde\u2026",
+     "indices": [
+      26,
+      49
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2142,
+  "favorite_count": 22915,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Oct 04 18:33:02 +0000 2021",
+  "id": 1445094628965900291,
+  "id_str": "1445094628965900291",
+  "text": "NYC as seen through Model Y glass roof\n\n\ud83d\udcf8: @Virus_City_ https://t.co/qY8TODtIQC",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Virus_City_",
+     "name": "Hayden",
+     "id": 1968012246,
+     "id_str": "1968012246",
+     "indices": [
+      43,
+      55
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1445094545876791300,
+     "id_str": "1445094545876791300",
+     "indices": [
+      56,
+      79
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445094545876791300/pu/img/4Npfg-k8avTxvX1Y.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445094545876791300/pu/img/4Npfg-k8avTxvX1Y.jpg",
+     "url": "https://t.co/qY8TODtIQC",
+     "display_url": "pic.twitter.com/qY8TODtIQC",
+     "expanded_url": "https://twitter.com/Tesla/status/1445094628965900291/video/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1445094545876791300,
+     "id_str": "1445094545876791300",
+     "indices": [
+      56,
+      79
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445094545876791300/pu/img/4Npfg-k8avTxvX1Y.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445094545876791300/pu/img/4Npfg-k8avTxvX1Y.jpg",
+     "url": "https://t.co/qY8TODtIQC",
+     "display_url": "pic.twitter.com/qY8TODtIQC",
+     "expanded_url": "https://twitter.com/Tesla/status/1445094628965900291/video/1",
+     "type": "video",
+     "sizes": {
+      "small": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 640,
+       "resize": "fit"
+      }
+     },
+     "video_info": {
+      "aspect_ratio": [
+       3,
+       4
+      ],
+      "duration_millis": 17481,
+      "variants": [
+       {
+        "bitrate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1445094545876791300/pu/vid/320x426/SgLZfiR_FQr4PAZk.mp4?tag=12"
+       },
+       {
+        "bitrate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1445094545876791300/pu/vid/480x640/b6sGDw3EAvnogRgr.mp4?tag=12"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1445094545876791300/pu/pl/pl8xC1KvZT184uNg.m3u8?tag=12&container=fmp4"
+       }
+      ]
+     },
+     "additional_media_info": {
+      "monetizable": false
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4971,
+  "favorite_count": 49429,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Oct 02 17:06:09 +0000 2021",
+  "id": 1444347986025357320,
+  "id_str": "1444347986025357320",
+  "text": "240k deliveries https://t.co/KAxKuNp6VD",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/KAxKuNp6VD",
+     "expanded_url": "https://ir.tesla.com/press-release/tesla-q3-2021-vehicle-production-deliveries",
+     "display_url": "ir.tesla.com/press-release/\u2026",
+     "indices": [
+      16,
+      39
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2278,
+  "favorite_count": 22226,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Oct 01 10:53:18 +0000 2021",
+  "id": 1443891770446782466,
+  "id_str": "1443891770446782466",
+  "text": "RT @elonmusk: With https://t.co/45B5nUBaxb &amp; Powerwall battery you are your own utility. \n\n24/7 clean, sustainable electricity.",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/45B5nUBaxb",
+     "expanded_url": "http://Tesla.com/solarroof",
+     "display_url": "Tesla.com/solarroof",
+     "indices": [
+      19,
+      42
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Fri Oct 01 10:51:43 +0000 2021",
+   "id": 1443891369035042820,
+   "id_str": "1443891369035042820",
+   "text": "With https://t.co/45B5nUBaxb &amp; Powerwall battery you are your own utility. \n\n24/7 clean, sustainable electricity. https://t.co/tqAxQMSuBD",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/45B5nUBaxb",
+      "expanded_url": "http://Tesla.com/solarroof",
+      "display_url": "Tesla.com/solarroof",
+      "indices": [
+       5,
+       28
+      ]
+     },
+     {
+      "url": "https://t.co/tqAxQMSuBD",
+      "expanded_url": "https://twitter.com/Tesla/status/1443889932091731969",
+      "display_url": "twitter.com/Tesla/status/1\u2026",
+      "indices": [
+       118,
+       141
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 44196397,
+    "id_str": "44196397",
+    "name": "Elon Musk",
+    "screen_name": "elonmusk",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 66309191,
+    "friends_count": 107,
+    "listed_count": 82642,
+    "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+    "favourites_count": 11304,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16336,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": true,
+   "quoted_status_id": 1443889932091731969,
+   "quoted_status_id_str": "1443889932091731969",
+   "quoted_status": {
+    "created_at": "Fri Oct 01 10:46:00 +0000 2021",
+    "id": 1443889932091731969,
+    "id_str": "1443889932091731969",
+    "text": "Solar Roof generating clean energy in Aspen, CO \ud83c\udfd4\n\n\ud83d\udcf8 @weddleandsons https://t.co/5Ar8ndjoXF",
+    "truncated": false,
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "user_mentions": [
+      {
+       "screen_name": "weddleandsons",
+       "name": "Weddle and Sons Roofing",
+       "id": 337757678,
+       "id_str": "337757678",
+       "indices": [
+        53,
+        67
+       ]
+      }
+     ],
+     "urls": [],
+     "media": [
+      {
+       "id": 1443889919466872834,
+       "id_str": "1443889919466872834",
+       "indices": [
+        68,
+        91
+       ],
+       "media_url": "http://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+       "url": "https://t.co/5Ar8ndjoXF",
+       "display_url": "pic.twitter.com/5Ar8ndjoXF",
+       "expanded_url": "https://twitter.com/Tesla/status/1443889932091731969/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 510,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 900,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1536,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1443889919466872834,
+       "id_str": "1443889919466872834",
+       "indices": [
+        68,
+        91
+       ],
+       "media_url": "http://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+       "url": "https://t.co/5Ar8ndjoXF",
+       "display_url": "pic.twitter.com/5Ar8ndjoXF",
+       "expanded_url": "https://twitter.com/Tesla/status/1443889932091731969/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 510,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 900,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1536,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 13298072,
+     "id_str": "13298072",
+     "name": "Tesla",
+     "screen_name": "Tesla",
+     "location": "",
+     "description": "electric cars, giant batteries and solar",
+     "url": "https://t.co/EJC6qVVMpC",
+     "entities": {
+      "url": {
+       "urls": [
+        {
+         "url": "https://t.co/EJC6qVVMpC",
+         "expanded_url": "https://www.tesla.com",
+         "display_url": "tesla.com",
+         "indices": [
+          0,
+          23
+         ]
+        }
+       ]
+      },
+      "description": {
+       "urls": []
+      }
+     },
+     "protected": false,
+     "followers_count": 12042075,
+     "friends_count": 79,
+     "listed_count": 19073,
+     "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+     "favourites_count": 3951,
+     "utc_offset": null,
+     "time_zone": null,
+     "geo_enabled": true,
+     "verified": true,
+     "statuses_count": 7730,
+     "lang": null,
+     "contributors_enabled": false,
+     "is_translator": false,
+     "is_translation_enabled": false,
+     "profile_background_color": "666666",
+     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+     "profile_background_tile": false,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+     "profile_link_color": "C90000",
+     "profile_sidebar_border_color": "FFFFFF",
+     "profile_sidebar_fill_color": "F5EDF5",
+     "profile_text_color": "555555",
+     "profile_use_background_image": true,
+     "has_extended_profile": false,
+     "default_profile": false,
+     "default_profile_image": false,
+     "following": false,
+     "follow_request_sent": false,
+     "notifications": false,
+     "translator_type": "none",
+     "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1836,
+    "favorite_count": 24108,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+   },
+   "retweet_count": 5030,
+   "favorite_count": 53671,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1443889932091731969,
+  "quoted_status_id_str": "1443889932091731969",
+  "retweet_count": 5030,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Oct 01 10:46:00 +0000 2021",
+  "id": 1443889932091731969,
+  "id_str": "1443889932091731969",
+  "text": "Solar Roof generating clean energy in Aspen, CO \ud83c\udfd4\n\n\ud83d\udcf8 @weddleandsons https://t.co/5Ar8ndjoXF",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "weddleandsons",
+     "name": "Weddle and Sons Roofing",
+     "id": 337757678,
+     "id_str": "337757678",
+     "indices": [
+      53,
+      67
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1443889919466872834,
+     "id_str": "1443889919466872834",
+     "indices": [
+      68,
+      91
+     ],
+     "media_url": "http://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+     "url": "https://t.co/5Ar8ndjoXF",
+     "display_url": "pic.twitter.com/5Ar8ndjoXF",
+     "expanded_url": "https://twitter.com/Tesla/status/1443889932091731969/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1443889919466872834,
+     "id_str": "1443889919466872834",
+     "indices": [
+      68,
+      91
+     ],
+     "media_url": "http://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FAm6O1CXIAI8S-w.jpg",
+     "url": "https://t.co/5Ar8ndjoXF",
+     "display_url": "pic.twitter.com/5Ar8ndjoXF",
+     "expanded_url": "https://twitter.com/Tesla/status/1443889932091731969/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1836,
+  "favorite_count": 24108,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Sep 20 20:07:59 +0000 2021",
+  "id": 1440045091976929295,
+  "id_str": "1440045091976929295",
+  "text": "Solar Roof powers Buffalo Heritage Carousel in NY\u00a0\ud83c\udf1e https://t.co/cxFFwmuQ2e",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1440045034548514818,
+     "id_str": "1440045034548514818",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440045034548514818/pu/img/Skl1RNWEbxFoWiGh.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440045034548514818/pu/img/Skl1RNWEbxFoWiGh.jpg",
+     "url": "https://t.co/cxFFwmuQ2e",
+     "display_url": "pic.twitter.com/cxFFwmuQ2e",
+     "expanded_url": "https://twitter.com/Tesla/status/1440045091976929295/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1440045034548514818,
+     "id_str": "1440045034548514818",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440045034548514818/pu/img/Skl1RNWEbxFoWiGh.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440045034548514818/pu/img/Skl1RNWEbxFoWiGh.jpg",
+     "url": "https://t.co/cxFFwmuQ2e",
+     "display_url": "pic.twitter.com/cxFFwmuQ2e",
+     "expanded_url": "https://twitter.com/Tesla/status/1440045091976929295/video/1",
+     "type": "video",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 18368,
+      "variants": [
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1440045034548514818/pu/vid/640x360/kzV6zm9CfgbWu6gp.mp4?tag=12"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1440045034548514818/pu/vid/480x270/I3L87nqaNt9OjBgV.mp4?tag=12"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1440045034548514818/pu/pl/SCaVu4LH6kUX7-tp.m3u8?tag=12&container=fmp4"
+       }
+      ]
+     },
+     "additional_media_info": {
+      "monetizable": false
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 13298072,
+   "id_str": "13298072",
+   "name": "Tesla",
+   "screen_name": "Tesla",
+   "location": "",
+   "description": "electric cars, giant batteries and solar",
+   "url": "https://t.co/EJC6qVVMpC",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EJC6qVVMpC",
+       "expanded_url": "https://www.tesla.com",
+       "display_url": "tesla.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 12042075,
+   "friends_count": 79,
+   "listed_count": 19073,
+   "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+   "favourites_count": 3951,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 7730,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "666666",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+   "profile_link_color": "C90000",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "F5EDF5",
+   "profile_text_color": "555555",
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3386,
+  "favorite_count": 39718,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ }
+]
