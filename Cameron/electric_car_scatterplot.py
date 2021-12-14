@@ -14,19 +14,19 @@ data = [
         mode='markers',
         marker=dict(size=12, color='blue', opacity=0.3)
     ),
-    # BMW data dictionary
+    # Kandi Technologies Group data dictionary
     dict(
-        x=electric_car_sentimental_analysis.bmw_stock_df['Polarity'],
-        y=electric_car_sentimental_analysis.bmw_stock_df['Subjectivity'],
+        x=electric_car_sentimental_analysis.kndi_stock_df['Polarity'],
+        y=electric_car_sentimental_analysis.kndi_stock_df['Subjectivity'],
         type='scatter',
         mode='markers',
         marker=dict(size=12, color='red', opacity=0.3),
         visible=False
     ),
-    # Volkswagen data dictionary
+    # Rivian data dictionary
     dict(
-        x=electric_car_sentimental_analysis.volkswagen_stock_df['Polarity'],
-        y=electric_car_sentimental_analysis.volkswagen_stock_df['Subjectivity'],
+        x=electric_car_sentimental_analysis.rivian_stock_df['Polarity'],
+        y=electric_car_sentimental_analysis.rivian_stock_df['Subjectivity'],
         type='scatter',
         mode='markers',
         marker=dict(size=12, color='green', opacity=0.3),
@@ -48,16 +48,16 @@ layout = dict(
                           {'title': "Tesla Stock"}]
                 ),
                 dict(
-                    label='BMW Stock',
+                    label='Kandi Stock',
                     method='update',
                     args=[{'visible': [False, True, False]},
-                          {'title': "BMW Stock"}]
+                          {'title': "Kandi Stock"}]
                 ),
                 dict(
-                    label='Volkswagen Stock',
+                    label='Rivian Stock',
                     method='update',
                     args=[{'visible': [False, False, True]},
-                          {'title': "Volkswagen Stock"}]
+                          {'title': "Rivian Stock"}]
                 )]),
             direction="down",
             pad={"r": 10, "t": 10},

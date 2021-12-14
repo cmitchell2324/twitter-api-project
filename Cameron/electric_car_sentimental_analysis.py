@@ -5,18 +5,18 @@ from textblob import TextBlob
 import pandas as pd
 import re
 
-tesla_stock_df = pd.read_csv('tslatweets.csv')
-bmw_stock_df = pd.read_csv('bmwyy_tweets.csv')
-volkswagen_stock_df = pd.read_csv('vlkaf_tweets.csv')
+tesla_stock_df = pd.read_csv('../Jacob/tslatweets.csv')
+kndi_stock_df = pd.read_csv('kndi_tweets.csv')
+rivian_stock_df = pd.read_csv('rivn_tweets.csv')
 
 # Function to clean the tweets
 def cleanTwt(twt):
   twt = re.sub('#tsla', 'tlsa', twt)  # Remove the # symbol
   twt = re.sub('#TSLA', 'TSLA', twt)  # Remove the # symbol
-  twt = re.sub('#bmwyy', 'bmwyy', twt) # Remove the # symbol
-  twt = re.sub('#BMWYY', 'BMWYY', twt) # Remove the # symbol
-  twt = re.sub('#vlkaf', 'vlkaf', twt)  # Remove the # symbol
-  twt = re.sub('#VLKAF', 'VLKAF', twt)  # Remove the # symbol
+  twt = re.sub('#kndi', 'kndi', twt) # Remove the # symbol
+  twt = re.sub('#KNDI', 'KNDI', twt) # Remove the # symbol
+  twt = re.sub('#rivn', 'rivn', twt)  # Remove the # symbol
+  twt = re.sub('#RIVN', 'RIVN', twt)  # Remove the # symbol
   twt = re.sub('#[A-Za-xz0-9]+', '', twt) # Removes any string with a hashtag
   twt = re.sub('\\n', '', twt) # Remove newline characters
   twt = re.sub('https?:\/\/\S+', '', twt) # Remove URLS
@@ -24,8 +24,8 @@ def cleanTwt(twt):
 
 # Clean the tweets
 tesla_stock_df['Cleaned_Tweets'] = tesla_stock_df['Tweets'].apply(cleanTwt)
-bmw_stock_df['Cleaned_Tweets'] = bmw_stock_df['Tweets'].apply(cleanTwt)
-volkswagen_stock_df['Cleaned_Tweets'] = volkswagen_stock_df['Tweets'].apply(cleanTwt)
+kndi_stock_df['Cleaned_Tweets'] = kndi_stock_df['Tweets'].apply(cleanTwt)
+rivian_stock_df['Cleaned_Tweets'] = rivian_stock_df['Tweets'].apply(cleanTwt)
 
 # Function to get the subjectivity
 def getSubjectivity(twt):
@@ -38,10 +38,10 @@ def getPolarity(twt):
 #Create new columns 'subjectivity' and 'polarity'
 tesla_stock_df['Subjectivity'] = tesla_stock_df['Cleaned_Tweets'].apply(getSubjectivity)
 tesla_stock_df['Polarity'] = tesla_stock_df['Cleaned_Tweets'].apply(getPolarity)
-bmw_stock_df['Subjectivity'] = bmw_stock_df['Cleaned_Tweets'].apply(getSubjectivity)
-bmw_stock_df['Polarity'] = bmw_stock_df['Cleaned_Tweets'].apply(getPolarity)
-volkswagen_stock_df['Subjectivity'] = volkswagen_stock_df['Cleaned_Tweets'].apply(getSubjectivity)
-volkswagen_stock_df['Polarity'] = volkswagen_stock_df['Cleaned_Tweets'].apply(getPolarity)
+kndi_stock_df['Subjectivity'] = kndi_stock_df['Cleaned_Tweets'].apply(getSubjectivity)
+kndi_stock_df['Polarity'] = kndi_stock_df['Cleaned_Tweets'].apply(getPolarity)
+rivian_stock_df['Subjectivity'] = rivian_stock_df['Cleaned_Tweets'].apply(getSubjectivity)
+rivian_stock_df['Polarity'] = rivian_stock_df['Cleaned_Tweets'].apply(getPolarity)
 
 
 # Function to get the sentiment of the text
@@ -55,5 +55,5 @@ def getSentiment(score):
 
 # Create a column to store the sentiment of the text
 tesla_stock_df['Sentiment'] = tesla_stock_df['Polarity'].apply(getSentiment)
-bmw_stock_df['Sentiment'] = bmw_stock_df['Polarity'].apply(getSentiment)
-volkswagen_stock_df['Sentiment'] = volkswagen_stock_df['Polarity'].apply(getSentiment)
+kndi_stock_df['Sentiment'] = kndi_stock_df['Polarity'].apply(getSentiment)
+rivian_stock_df['Sentiment'] = rivian_stock_df['Polarity'].apply(getSentiment)

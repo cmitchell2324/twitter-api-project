@@ -39,4 +39,4 @@ def appendTweets(filename, results):
 
 t = oauth_login()
 
-appendTweets('../tweets_from_tesla.json', t.statuses.user_timeline(screen_name='Tesla', count=23))
+appendTweets('tweets_from_tesla.json', t.statuses.user_timeline(screen_name='Tesla', count=23))
