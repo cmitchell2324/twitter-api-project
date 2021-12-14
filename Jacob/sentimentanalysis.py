@@ -5,9 +5,9 @@ from textblob import TextBlob
 import pandas as pd
 import re
 
-stock_df = pd.read_csv('tslatweets.csv')
-elon_df = pd.read_csv('elonmusktweets.csv')
-cars_df = pd.read_csv('carstweets.csv')
+stock_df = pd.read_csv('Jacob/tslatweets.csv')
+elon_df = pd.read_csv('Jacob/elonmusktweets.csv')
+cars_df = pd.read_csv('Jacob/carstweets.csv')
 
 # Function to clean the tweets
 def cleanTwt(twt):

@@ -2,8 +2,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-musktweets = pd.read_json('tweets_from_tesla.json')
-tsla = pd.read_csv('tsla_account_data.csv')
+musktweets = pd.read_json('Cameron/tweets_from_tesla.json')
+tsla = pd.read_csv('Cameron/tsla_account_data.csv')
 
 #omits the time from the created_at parameter
 def tweets_per_day(df):

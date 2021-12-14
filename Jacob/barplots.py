@@ -2,7 +2,7 @@
 # neutral, or negative.
 
 import plotly.io as pio
-from Jacob import sentimentanalysis
+import sentimentanalysis
 
 data = [
   # Tesla stock data dictionary

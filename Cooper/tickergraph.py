@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('tickerdata.csv')
+data = pd.read_csv('Cooper/tickerdata.csv')
 
 values = data['Ticker'].value_counts()
 
