@@ -1,13 +1,13 @@
 # Running this file will append tweets to the Tesla stock CSV
 
-import twitter_keys
+from FinalProject import twitter_keys
 import tweepy
 import pandas as pd
 
 # Variables to be used in the search for tweets.
 num_tweets = 89     # How many tweets to retrieve.
 search_term = 'tsla -filter:retweets'      # Seach query. Disregards retweets.
-file_name = 'tslatweets.csv'    # Name of the csv file the dataframe of tweets will be written to.
+file_name = 'tslatweets.csv'  # Name of the csv file the dataframe of tweets will be written to.
 
 
 # Create authentication object

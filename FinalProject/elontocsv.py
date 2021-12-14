@@ -1,6 +1,6 @@
 # Running this file will append tweets to the Elon tweets CSV
 
-import twitter_keys
+from FinalProject import twitter_keys
 import tweepy
 import pandas as pd
 
